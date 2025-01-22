@@ -2,3 +2,4 @@ yfinance
 plotly
 tensorflow
 scikit-learn
+keras
