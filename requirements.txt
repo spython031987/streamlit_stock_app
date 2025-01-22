@@ -3,6 +3,6 @@ plotly
 tensorflow
 scikit-learn
 keras
-GoogleNews
+googlenews
 textblob
 re
